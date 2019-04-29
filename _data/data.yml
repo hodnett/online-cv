@@ -97,6 +97,7 @@ experiences:
     - role: Programmer/Analyst
       time: 1999 - 2002
       company: Raytheon ITSS
+      details: |
         As a contractor, developed and maintained scientific data processing software for the Jet Propulsion 
         Laboratory’s Physical Oceanography from Space mission.
 
