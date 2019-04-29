@@ -114,6 +114,14 @@ experiences:
         As a contractor, developed and maintained scientific data processing software for the Jet Propulsion 
         Laboratory’s Physical Oceanography from Space mission.
 
+          - Automated the data processing for the TOPEX/Poseidon mission, everything from the retrieval of 
+            the raw satellite data from the Deep Space Network, to the creation of CD-ROMs for distribution.
+          - Reduced the cycle time for exchanging DAT copies of the AVHRR Oceans Pathfinder and ERS-1 
+            satellite data sets, with participating universities and research programs. Bottlenecks were 
+            eliminated, shortening the process from five days to two hours.
+          - Wrote training and process documentation for three separate missions (TOPEX/Poseidon, AVHRR Oceans 
+            Pathfinder and ERS-1), qualifying them for ISO 9001 certification.
+
 skills:
     title: Skills &amp; Proficiency
 
