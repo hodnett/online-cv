@@ -26,20 +26,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Software developer willing to learn and apply any and all skills necessary, needed 
+      to help bring projects that benefit the community, to fruition. Previously worked for 
+      the Jet Propulson Laboratory (oceonography from space), the Yucca Mountain Project (long 
+      term storage of nuclear waste) and most recently, Pathbrite (tools to facilitate 
+      ePortfolios, classroom management tools and distance learning). 
+      
+      Currently interested in opportunities involving Site Reliability Engineering, DevOps, 
+      System Administration, Information Security, and macOS and/or iOS application 
+      programming.
 
 education:
     - degree: Bachelor of Science in Computer Science
       university: California State University, Los Angeles
       time: 
       details: 
-      
+
 experiences:
     - role: Site Reliability Engineer
       time: 2015 - Present
@@ -59,7 +61,7 @@ experiences:
             party libraries and configuration files manually edited by hand. Have significantly reduced 
             developers' need to "touch the box"
 
-          - Adding redundancy and blue/greeen deployment paradims, improving overall site reliability to 
+          - Adding redundancy and blue/greeen deployment paradigms, improving overall site reliability to 
             99.995%.
 
           - Researching and applying additional performance and security updates, including those identified 
@@ -74,11 +76,12 @@ experiences:
             commits and branches are automatically deployed to production.
 
         Cengage purchased the assets of Pathbrite, Inc. Assisted with the transition, performing a wide 
-        variety of services. In addition to the above duties, also:
+        variety of tasks. In addition to the above duties, also:
 
           - Triaged, assigned and resolved technical and customer support tickets, acting as Tier I, 
             Tier II and Tier III support while also administering the support platform, Zendesk. Received 
-            monthly satisfaction ratings averaging 95%.
+            monthly satisfaction ratings averaging 95% and multiple awards from Cengage for service 
+            above and beyond.
             
           - Updated Pathbrite's user guides, wrote support documentation and trained Cengage's technical
             support staff until they were able to absorb Tier I and Tier II duties. Will continue to 
@@ -126,7 +129,7 @@ experiences:
       time: 2011 - 2015
       company: Pathbrite, Inc
       details: |
-        Performed a variety of tasks as needed, for an internet startup developing electronic portfolios 
+        Acted as a Jack of All Trades for an internet startup developing electronic portfolios 
         and classroom coursework management tools. These tasks included all tiers of technical support, 
         Linux system administration, cyber security, PHP programming, MySQL database administration and 
         software quality assurance.
@@ -150,13 +153,13 @@ experiences:
           - Built Pathbrite’s data warehouse which performed statistical analysis on the ePortfolios and 
             courses uploaded, and published reports on a daily basis.
 
-    - role: Jack of All Trades
+    - role: Software Developer
       time: 2008 - 2011
       company: Failed Startups
       details: |
         Picked up Objective-C, PHP and MySQL with the intent of developing iOS apps that could access 
-        resources stored in the cloud. Economic circumstances at the time however made developing viable 
-        business plans challenging.
+        resources stored in the cloud. Economic conditions at the time however made developing viable 
+        business plans rather challenging.
 
     - role: Information Systems Associate
       time: 2002 - 2008
