@@ -53,24 +53,110 @@ experiences:
       time: 2015 - Present
       company: Cengage Learning
       details: |
-        Currently converting brownfield applications and infrastructure into continuous integration 
-        and continuous delivery platforms that follow Amazon’s well architected framework and industry 
-        best practices, with an emphasis on reliability and information security.
+        Currently converting brownfield applications and infrastructure into continuous integration, 
+        continuous delivery and continuous deployment platforms that follow Amazon’s well architected 
+        framework and industry best practices, with an emphasis on automation, reliability and information 
+        security. Duties included:
 
-          - Bullet point
-          - Bullet point 
+          - Creating Ansible scripts that work with Amazon Web Services’ CloudFormation to launch and 
+            automatically configure resources.
+
+          - Identifing discrepancies between, and standardizing production, quality assurance, performance 
+            testing and "collaborative development preview” stacks, writing new shell scripts, PHP code and 
+            node.js code as necessary. Have eliminated software defects due to mismatched versions of third 
+            party libraries and configuration files manually edited by hand. Have significantly reduced 
+            developers' need to "touch the box"
+
+          - Adding redundancy and blue/greeen deployment paradims, improving overall site reliability to 
+            99.995%.
+
+          - Researching and applying additional performance and security updates, including those identified 
+            through regular audits. Performing additional AWS account and resource configuration to comply 
+            with Cengage policies.
+
+          - Improving Cengage's ability to conduct forensic analysis of incidents, largely by installing 
+            configuring Splunk, and training stakeholders how to search for incidents and generate reports.
+            Participating in Cengage's critical incident and root cause analysis post-mortems.
+
+          - Currently midway through implementing a continuous deployment process wherein approved GitHub 
+            commits and branches are automatically deployed to production.
+
+        Cengage purchased the assets of Pathbrite, Inc. Assisted with the transition, performing a wide 
+        variety of services. In addition to the above duties, also:
+
+          - Triaged, assigned and resolved technical and customer support tickets, acting as Tier I, 
+            Tier II and Tier III support while also administering the support platform, Zendesk. Received 
+            monthly satisfaction ratings averaging 95%.
+            
+          - Updated Pathbrite's user guides, wrote support documentation and trained Cengage's technical
+            support staff until they were able to absorb Tier I and Tier II duties. Will continue to 
+            provide Tier III support until the cessation of the project.
+
+          - Within the scope of Tier III support, continued to write PHP and MySQL code as needed in order 
+            order to address time-sensitive software defects isolated to Pathbrite's backend code base. 
+            Picked up enough node.js and JavaScript syntax to debug Pathbrute's frontend code base. 
+            Regularly participated in peer code-reviews and provided advice on algorithms, developer 
+            best practices and the user experience (UX).
+
+          - Provided additional support and end-user training, to Cengage's sales and marketing 
+            departments, as well as institutional customers wishing to support Pathbrite in-house.
+
+          - Researched and generated ad hoc reports for Cengage and institutional stakeholders.
+
+          - Acted as a subject matter expert on the Learning Tools Interoperability protocol, sharing
+            lessons learned with management, analysts, and engineers supporting multiple products across
+            the organization, not just Pathbrite.
+
+          - Implemented the "simple" SAML and Shibboleth identity management protocols, expanding the
+            number of platforms that Pathbrite can provide single sign-on services for. Created
+            reference implementations and documentation for other Cengage products. Administered 
+            Pathbrite's "simple" SAML IdP and SP servers, and acted as technical contact within the
+            InCommon federation which authenticates Shibbileth providers.
+
+          - Provided IT services to other Pathbrite staff; created and configured accounts, and provided
+            instructions and configuration profiles for tools used within the project. Also acted as 
+            Pathbrite's Atlassian Jira, Confluence, Wiki, Google Docs, Github and Slack administrator.
+
+          - Acted as Pathbrite's postmaster; worked to ensure that emails generated by the Pathbrite 
+            application, were correctly routed and did not get flagged as spam. 
+
+          - Continued to perform routine system administration tasks, including launching and 
+            configuring new rsources, applying security updates, and conducting audits to 
+            maintain our PCI-DSS compliance.
+
+          - Installed New Relic, Pingdom and OpsGenie, configured and administered those services, 
+            and acted as the principal responding engineer whenever any of these monitoring services
+            identified a problem or potential issue with the Pathbrite application or its underlying 
+            infrastucture. Rectified these issues such that Pathbrite averaged 99.95 uptime prior to 
+            adopting Amazon Web Services' Well Archtiected Framework.
 
     - role: Engineering Manager
       time: 2011 - 2015
-      company: Pathbrite
+      company: Pathbrite, Inc
       details: |
         Performed a variety of tasks as needed, for an internet startup developing electronic portfolios 
         and classroom coursework management tools. These tasks included all tiers of technical support, 
         Linux system administration, cyber security, PHP programming, MySQL database administration and 
         software quality assurance.
 
-          - Bullet point
-          - Bullet point
+          - Certified Pathbrite as PCI DSS Compliant and ensured that Pathbrite meets Stanford University’s 
+            security and privacy requirements.
+
+          - Delivered several projects integrating Pathbrite with other Learning Management Systems 
+            including Blackboard, Moodle, Canvas, Learning Studio and Brightspace (nee Desire 2 Learn), 
+            all via the Learning Tools Interoperability protocol and the Learning Information Systems 
+            specification.
+
+          - Learned just enough Java programming to lead the project to develop a Building Block for
+            Blackboard, allowing for additional features to be synchronized between the two platforms. 
+            In addition to fixing bugs, also standardized and automated the build and WAR publishing 
+            process.
+
+          - Successfully diagnosed, resolved and prevented the reoccurrence of server impacting issues on 
+            an on-going basis. Downtime was estimated at less than 60 minutes per year.
+
+          - Built Pathbrite’s data warehouse which performed statistical analysis on the ePortfolios and 
+            courses uploaded, and published reports on a daily basis.
 
     - role: Jack of All Trades
       time: 2008 - 2011
