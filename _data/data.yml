@@ -27,7 +27,7 @@ career-profile:
     title: Career Profile
     summary: |
       Software developer willing to learn and apply any and all skills necessary, needed 
-      to help bring projects that benefit the community, to fruition. Previously worked for 
+      to bring projects that benefit the community, to fruition. Previously worked for 
       the Jet Propulson Laboratory (oceonography from space), the Yucca Mountain Project (long 
       term storage of nuclear waste) and most recently, Pathbrite (tools to facilitate 
       ePortfolios, classroom management tools and distance learning). 
@@ -48,9 +48,9 @@ experiences:
       company: Cengage Learning
       details: |
         Currently converting brownfield applications and infrastructure into continuous integration, 
-        continuous delivery and continuous deployment platforms that follow Amazon’s well architected 
-        framework and industry best practices, with an emphasis on automation, reliability and information 
-        security. Duties included:
+        continuous delivery and continuous deployment platforms that follow Amazon’s Well Architected 
+        Framework and industry best practices, with an emphasis on automation, reliability and information 
+        security. Specifically:
 
           - Creating Ansible scripts that work with Amazon Web Services’ CloudFormation to launch and 
             automatically configure resources.
@@ -58,19 +58,18 @@ experiences:
           - Identifing discrepancies between, and standardizing production, quality assurance, performance 
             testing and "collaborative development preview” stacks, writing new shell scripts, PHP code and 
             node.js code as necessary. Have eliminated software defects due to mismatched versions of third 
-            party libraries and configuration files manually edited by hand. Have significantly reduced 
+            party libraries and configuration files manually edited by hand. Have Also significantly reduced 
             developers' need to "touch the box"
 
           - Adding redundancy and blue/greeen deployment paradigms, improving overall site reliability to 
             99.995%.
 
-          - Researching and applying additional performance and security updates, including those identified 
-            through regular audits. Performing additional AWS account and resource configuration to comply 
-            with Cengage policies.
+          - Researching and applying additional performance, configuration and security updates to comply
+            with Cengage policies, including those identified through regular audits.
 
           - Improving Cengage's ability to conduct forensic analysis of incidents, largely by installing 
-            configuring Splunk, and training stakeholders how to search for incidents and generate reports.
-            Participating in Cengage's critical incident and root cause analysis post-mortems.
+            Splunk, and training stakeholders how to search for incidents and generate reports.
+            Participating in Cengage's critical incident and root cause analysis postmortems.
 
           - Currently midway through implementing a continuous deployment process wherein approved GitHub 
             commits and branches are automatically deployed to production.
@@ -90,8 +89,8 @@ experiences:
           - Within the scope of Tier III support, continued to write PHP and MySQL code as needed in order 
             order to address time-sensitive software defects isolated to Pathbrite's backend code base. 
             Picked up enough node.js and JavaScript syntax to debug Pathbrute's frontend code base. 
-            Regularly participated in peer code-reviews and provided advice on algorithms, developer 
-            best practices and the user experience (UX).
+            Regularly participated in peer reviews and provided advice on algorithms, developer best 
+            practices and the user experience (UX).
 
           - Provided additional support and end-user training, to Cengage's sales and marketing 
             departments, as well as institutional customers wishing to support Pathbrite in-house.
@@ -106,14 +105,14 @@ experiences:
             number of platforms that Pathbrite can provide single sign-on services for. Created
             reference implementations and documentation for other Cengage products. Administered 
             Pathbrite's "simple" SAML IdP and SP servers, and acted as technical contact within the
-            InCommon federation which authenticates Shibbileth providers.
+            InCommon federation which authenticates Shibboleth providers.
 
           - Provided IT services to other Pathbrite staff; created and configured accounts, and provided
             instructions and configuration profiles for tools used within the project. Also acted as 
             Pathbrite's Atlassian Jira, Confluence, Wiki, Google Docs, Github and Slack administrator.
 
           - Acted as Pathbrite's postmaster; worked to ensure that emails generated by the Pathbrite 
-            application, were correctly routed and did not get flagged as spam. 
+            application were correctly routed and did not get flagged as spam. 
 
           - Continued to perform routine system administration tasks, including launching and 
             configuring new rsources, applying security updates, and conducting audits to 
@@ -122,8 +121,8 @@ experiences:
           - Installed New Relic, Pingdom and OpsGenie, configured and administered those services, 
             and acted as the principal responding engineer whenever any of these monitoring services
             identified a problem or potential issue with the Pathbrite application or its underlying 
-            infrastucture. Rectified these issues such that Pathbrite averaged 99.95 uptime prior to 
-            adopting Amazon Web Services' Well Archtiected Framework.
+            infrastructure. Rectified these issues such that Pathbrite averaged 99.95 uptime prior to 
+            adopting Amazon Web Services' Well Architeched Framework.
 
     - role: Engineering Manager
       time: 2011 - 2015
