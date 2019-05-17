@@ -87,7 +87,7 @@ experiences:
 
           - Within the scope of Tier III support, continued to write PHP and MySQL code as needed in order 
             order to address time-sensitive software defects isolated to Pathbrite's backend code base. 
-            Picked up enough node.js and JavaScript syntax to debug Pathbrute's frontend code base. 
+            Picked up enough node.js and JavaScript syntax to debug Pathbrite's frontend code base. 
             Regularly participated in peer reviews and provided advice on algorithms, developer best 
             practices and the user experience (UX).
 
@@ -114,7 +114,7 @@ experiences:
             application were correctly routed and did not get flagged as spam. 
 
           - Continued to perform routine system administration tasks, including launching and 
-            configuring new rsources, applying security updates, and conducting audits to 
+            configuring new resources, applying security updates, and conducting audits to 
             maintain our PCI-DSS compliance.
 
           - Installed New Relic, Pingdom and OpsGenie, configured and administered those services, 
